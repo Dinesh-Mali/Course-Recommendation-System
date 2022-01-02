@@ -18,4 +18,4 @@ This app recommends Similar Courses for which the user is searching/looking for.
 
 6) Integrate the recomendation system with Flask framework.
 
-7) Deploy the application on heroku cloud platform.
+7) Deploy the application on heroku cloud platform. 
